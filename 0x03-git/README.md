@@ -1,1 +1,1 @@
-0x03-git directory and README.md files
+ README.md file for 0x03-git
